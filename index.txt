@@ -7,3 +7,9 @@ en crear
 repositorio
 
 usando GIT
+
+por medio de 
+
+la consola de 
+
+git bash
